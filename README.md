@@ -64,3 +64,11 @@ If running Spark locally, remember to configure your paths for:
 ## Conclusion
 
 This Spark project is a compact demonstration of how to move from classical pandas analysis to scalable tools like Dask and Spark. It validates the superiority of distributed processing when managing large datasets while still leveraging pandas for final visual analysis when appropriate.
+
+## Expected Output Plots
+<img src="images/revenue_category_bar.png" width="800">
+
+<img src="images/revenue_category_Lineplot.png" width="600">
+
+<img src="images/donut_revenues.png" width="600">
+
